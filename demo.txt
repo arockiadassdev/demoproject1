@@ -1,1 +1,18 @@
-How are you
+Beginner Data Science Learning Path
+Python Basics
+NumPy
+Pandas
+Matplotlib
+Data Cleaning
+Exploratory Data Analysis (EDA)
+Statistics
+Machine Learning with Scikit-learn
+
+A good beginner project is Student Marks Analysis, where you:
+
+Load student data using Pandas
+Calculate average marks
+Find top-performing students
+Create charts with Matplotlib
+
+This is a common Data Science interview and resume project for beginners.
