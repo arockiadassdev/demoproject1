@@ -1,0 +1,1 @@
+Git automatically switches you onto this branch immediately
